@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "antispoofing4.0", "antispoofing4.0\antispoofing4.0.vcxproj", "{B253A863-DB37-4A6B-A4E3-2983E0DF0612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B253A863-DB37-4A6B-A4E3-2983E0DF0612}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B253A863-DB37-4A6B-A4E3-2983E0DF0612}.Debug|Win32.Build.0 = Debug|Win32
+		{B253A863-DB37-4A6B-A4E3-2983E0DF0612}.Release|Win32.ActiveCfg = Release|Win32
+		{B253A863-DB37-4A6B-A4E3-2983E0DF0612}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

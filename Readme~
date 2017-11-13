@@ -1,0 +1,20 @@
+#usage
+ ./antispoofing4.0/antispoofing.exe: face anti-spoofing training system on windows
+ ./Facere1_origin/face_anti_spoofing.apk: face anti-spoofing Android installer package
+
+#Overview 
+ This repository provides a face anti-spoofing application. The training algorithm is based on optimized LAP. The training database is CASIA-FASD
+
+#dependency
+ OpenCV 3.1.0
+ Visual Studio 2013
+ Andorid Software Development Kit (SDK)dio
+ Android Native Development Kit (NDK)
+ Android Studio
+
+#developer
+ c++ codes could be directly modified
+ detailed NDK instruction can be find in ./Facere1_origin/android_ndk_instruction.html
+
+#patent
+ submitted to china patent office with application ID: 105913024A
